@@ -34,5 +34,5 @@ Then run it with:
 
 And open a web browser and go to 
 
-    [http://localhost:8080/] (http://localhost:8080/)
+    http://localhost:8080/
 
